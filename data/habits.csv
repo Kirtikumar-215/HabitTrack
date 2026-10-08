@@ -1,0 +1,8 @@
+id,name,category,frequency,priority,target,start_date,description,active
+c2ffb318d9,Free Fire,Fitness,Daily,High,7,2026-10-08,best game,1
+demo-water,Drink 8 glasses of water,Health,Daily,High,7,2026-09-17,Stay hydrated throughout the workday.,1
+demo-reading,Read for 20 minutes,Personal,Daily,Medium,5,2026-09-10,Read a book instead of scrolling.,1
+demo-workout,Morning workout,Fitness,Weekdays,High,5,2026-09-03,A short strength or mobility session.,1
+demo-focus,Deep work block,Productivity,Weekdays,High,5,2026-09-24,Complete one distraction-free focus block.,1
+demo-language,Practice Spanish,Study,Daily,Low,4,2026-09-17,Complete one short lesson or review session.,1
+demo-journal,Evening journal,Personal,Weekends,Medium,2,2026-09-24,Write down one win and one reflection.,1
